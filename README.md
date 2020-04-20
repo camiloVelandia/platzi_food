@@ -1,4 +1,4 @@
-#Project with Tailwind-css
+# Project with Tailwind-css
 
 this is a project using tailwind-css
 and all its advantages
