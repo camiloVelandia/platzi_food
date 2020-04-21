@@ -1,10 +1,27 @@
 module.exports = {
   theme: {
-    fontFamily: {
-      display: ["Gilrov", "sans-serif"],
-      body: ["Graphik", "sans-serif"],
+    extend: {
+      colors: {
+        primary: "#f3c614",
+        secondary: "#353535",
+      },
     },
-    extend: {},
+  },
+  variants: {},
+  plugins: [],
+};
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        primary: "#f3c614",
+        secondary: "#353535",
+      },
+      height: {
+        "80": "20rem",
+        "100": "25rem",
+      },
+    },
   },
   variants: {},
   plugins: [],

@@ -5,6 +5,10 @@ and all its advantages
 
 Clone, enjoy and give me a star!
 
+## Preview
+
+![](/preview.png)
+
 ### Installing
 
 to install
